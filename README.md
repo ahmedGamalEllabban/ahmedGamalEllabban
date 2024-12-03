@@ -17,7 +17,7 @@ Welcome to my GitHub! I’m a passionate developer with a focus on building effi
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedGamalEllabban&show_icons=true&theme=dark)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedGamalEllabban&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=ahmedGamalEllabban&show_icons=true&theme=dark&cache_seconds=1800)
 
 ---
 
