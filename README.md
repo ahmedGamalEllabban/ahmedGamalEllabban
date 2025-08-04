@@ -33,8 +33,10 @@ Here are some of the key technologies and tools I work with:
 ### 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedGamalEllabban&show_icons=true&theme=dark&count_private=true" alt="Ahmed Ellabban's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedGamalEllabban&show_icons=true&theme=dark&count_private=true" alt="Ahmed Ellabban's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedGamalEllabban&layout=compact&theme=dark" alt="Top Languages" />
 </p>
+With over 1000 contributions in the last year, I am a highly active and engaged developer committed to continuous improvement and making meaningful contributions to the projects I am a part of.
 
 ---
 
