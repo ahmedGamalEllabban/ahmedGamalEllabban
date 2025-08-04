@@ -1,44 +1,73 @@
-### 👋 Hello, I'm Ahmed Ellabban!
+<!--
+  👋 Hey there! I'm Ahmed Ellabban
+  ===================================================
+  Welcome to my GitHub profile — where code meets creativity!
+-->
 
-Welcome to my GitHub profile! I'm a full-stack developer with a passion for creating efficient, user-centric web applications. My expertise lies in building robust back-end systems with Laravel and crafting dynamic user interfaces with Angular. I thrive in collaborative environments and am a firm believer in the power of Agile methodologies to deliver high-quality software.
-
----
-
-### 🚀 What I Do
-
-I specialize in the entire development lifecycle, from concept to deployment. Here's a glimpse of my skill set:
-
--   **Back-End Development:** I build scalable and secure RESTful APIs using **Laravel** and **Node.js**. My focus is on writing clean, maintainable code that stands the test of time.
--   **Front-End Development:** I create responsive and interactive user interfaces with **Angular**, **HTML**, **CSS**, and **JavaScript**. I'm proficient in using frameworks like **Bootstrap** to ensure a seamless user experience across all devices.
--   **Database Management:** I have extensive experience with **MySQL** and **SQLite**, designing and optimizing database schemas for performance and reliability.
--   **Version Control & Collaboration:** I am highly proficient with **Git** and GitHub for version control, ensuring smooth collaboration within development teams.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2EC4B6&center=true&vCenter=true&width=950&lines=Hi,+I'm+Ahmed+Ellabban!;Building+Awesome+Full-Stack+Apps;Laravel+%7C+Angular+%7C+Node.js+Enthusiast;Open+Source+Advocate+%26+Tech+Learner" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🔧 Technologies & Tools
-
-Here are some of the key technologies and tools I work with:
-
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | `PHP` `JavaScript` `HTML` `CSS` `C++` |
-| **Backend** | `Laravel` `Node.js` |
-| **Frontend** | `Angular` `HTML/CSS` `JavaScript` `Bootstrap` `ReactJS` `Tailwind CSS`|
-| **Database** | `MySQL` `SQLite` |
-| **Version Control** | `Git` `GitHub`|
-| **Other** | `RESTful API Development` `JSON` `Agile Methodologies`|
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ahmedGamalEllabban?label=Followers&logo=github&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Code-Open%20Source-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Languages-PHP%2C%20JS%2C%20HTML%2C%20CSS-success?style=for-the-badge" />
+</p>
 
 ---
 
-### 📈 My GitHub Stats
-With over 1000 contributions in the last year, I am a highly active and engaged developer committed to continuous improvement and making meaningful contributions to the projects I am a part of.
+## 🚀 About Me
+
+I'm a passionate developer specializing in crafting efficient, scalable, and user-centric applications. With over **1000+ contributions** on GitHub, I thrive on continuous learning, open source, and turning ideas into reality through code.
+
+- 🏆 **1000+ GitHub Contributions** (the stats below may show less due to GitHub's public metrics limits)
+- 🌍 Building modern solutions with Laravel, Angular, Node.js & more
+- 💡 Believer in clean code, elegant UI/UX, and collaborative development
 
 ---
 
-### 📫 Let's Connect!
+## 🛠️ Skills & Technologies
 
-I'm always open to discussing new projects, interesting ideas, or opportunities to collaborate. Feel free to reach out to me:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,angular,js,html,css,bootstrap,mysql,sqlite,git,github" />
+</div>
 
--   **Email:** [ahmedg.ellabban339@gmail.com](mailto:ahmedg.ellabban339@gmail.com)
+**Languages:** PHP, JavaScript, HTML, CSS  
+**Backend:** Laravel (PHP 7.2), Node.js  
+**Frontend:** Angular, Bootstrap, HTML/CSS  
+**Database:** MySQL, SQLite  
+**Other:** RESTful APIs, JSON, Agile methodologies, Git
 
-I look forward to connecting with you
+---
+
+## 📈 GitHub Stats
+
+> **Note:** GitHub's public stats may not reflect all your contributions (private repos, forks, and some activity are excluded).
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedGamalEllabban&show_icons=true&theme=react&hide_title=true&count_private=true&hide_rank=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedGamalEllabban&theme=react&hide_border=true" height="180" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedGamalEllabban&theme=github_dark" />
+</p>
+
+---
+
+## 📬 Get In Touch
+
+- **Email:** [ahmedg.ellabban339@gmail.com](mailto:ahmedg.ellabban339@gmail.com)
+- **LinkedIn:** [Ahmed Ellabban](https://www.linkedin.com/in/ahmed-ellabban/)  
+- **GitHub:** [ahmedGamalEllabban](https://github.com/ahmedGamalEllabban)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmedGamalEllabban&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<!--
+  Let's code something amazing together!
+-->
