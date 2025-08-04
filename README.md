@@ -35,9 +35,9 @@ I'm a passionate developer specializing in crafting efficient, scalable, and use
 </div>
 
 **Languages:** PHP, JavaScript, HTML, CSS  
-**Backend:** Laravel (PHP 7.2), Node.js  
+**Backend:** Laravel, Node.js  
 **Frontend:** Angular, Bootstrap, HTML/CSS  
-**Database:** MySQL, SQLite  
+**Database:** MySQL, SQLite, PostgreSQL  
 **Other:** RESTful APIs, JSON, Agile methodologies, Git
 
 ---
@@ -47,7 +47,6 @@ I'm a passionate developer specializing in crafting efficient, scalable, and use
 > **Note:** GitHub's public stats may not reflect all your contributions (private repos, forks, and some activity are excluded).
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedGamalEllabban&show_icons=true&theme=react&hide_title=true&count_private=true&hide_rank=true" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedGamalEllabban&theme=react&hide_border=true" height="180" />
 </p>
 <p align="center">
