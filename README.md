@@ -44,8 +44,6 @@ I'm a passionate developer specializing in crafting efficient, scalable, and use
 
 ## 📈 GitHub Stats
 
-> **Note:** GitHub's public stats may not reflect all your contributions (private repos, forks, and some activity are excluded).
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedGamalEllabban&theme=react&hide_border=true" height="180" />
 </p>
