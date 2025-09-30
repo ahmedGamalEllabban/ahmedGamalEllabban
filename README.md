@@ -56,7 +56,7 @@ I'm a passionate developer specializing in crafting efficient, scalable, and use
 ## 📬 Get In Touch
 
 - **Email:** [ahmedg.ellabban339@gmail.com](mailto:ahmedg.ellabban339@gmail.com)
-- **LinkedIn:** [Ahmed Ellabban](https://www.linkedin.com/in/ahmed-ellabban/)  
+- **LinkedIn:** [Ahmed Ellabban](https://www.linkedin.com/in/ahmed-gamal-ellabban/)  
 - **GitHub:** [ahmedGamalEllabban](https://github.com/ahmedGamalEllabban)
 
 ---
