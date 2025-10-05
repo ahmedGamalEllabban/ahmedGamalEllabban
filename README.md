@@ -22,7 +22,7 @@
 
 I'm a passionate developer specializing in crafting efficient, scalable, and user-centric applications. With over **1000+ contributions** on GitHub, I thrive on continuous learning, open source, and turning ideas into reality through code.
 
-- 🏆 **1500+ GitHub Contributions**
+- 🏆 **1800+ GitHub Contributions**
 - 🌍 Building modern solutions with Laravel, Angular, Node.js & more
 - 💡 Believer in clean code, elegant UI/UX, and collaborative development
 
@@ -34,8 +34,8 @@ I'm a passionate developer specializing in crafting efficient, scalable, and use
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,angular,js,html,css,bootstrap,mysql,sqlite,git,github" />
 </div>
 
-**Languages:** PHP, JavaScript, HTML, CSS  
-**Backend:** Laravel, Node.js  
+**Languages:** PHP, TypeScript, JavaScript, HTML, CSS, C, C++
+**Backend:** Laravel, NestJS, ExpressJS
 **Frontend:** Angular, Bootstrap, HTML/CSS  
 **Database:** MySQL, SQLite, PostgreSQL  
 **Other:** RESTful APIs, JSON, Agile methodologies, Git
