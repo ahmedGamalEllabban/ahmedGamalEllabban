@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer specializing in crafting efficient, scalable, and user-centric applications. With over **1000+ contributions** on GitHub, I thrive on continuous learning, open source, and turning ideas into reality through code.
+I'm a passionate developer specializing in crafting efficient, scalable, and user-centric applications. With over **2200+ contributions** on GitHub, I thrive on continuous learning, open source, and turning ideas into reality through code.
 
 - 🏆 **2200+ GitHub Contributions**
 - 🌍 Building modern solutions with Laravel, Angular, Node.js & more
